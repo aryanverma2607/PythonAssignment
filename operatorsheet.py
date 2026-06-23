@@ -32,31 +32,7 @@ print("" or "Gauri")
 print(-5 or 2)
 print(" " or "Tum")
 print("Hello" or "Sirf tum")
-print(None or "only you")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(None or "only you")    none is considered as falsy value
 
 '''b*=a+4
 print(b)
