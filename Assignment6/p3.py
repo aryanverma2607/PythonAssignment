@@ -27,4 +27,4 @@ elif income>500000 and income<=1000000:
 else:
 	income-=250000
 	tax=income*0.3
-print(F"Tax Payable {tax}")
+print(F"Tax Payable ₹{tax}")
