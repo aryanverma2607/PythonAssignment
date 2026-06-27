@@ -19,10 +19,3 @@ while n>0:
 	n=n//10
 print("Smallest number = ",smallest)
 '''
-
-for i in range(n,1):
-	r = n%10
-	if r<smallest:
-		smallest=r
-	n=n//10
-print("Smallest number = ",smallest)
